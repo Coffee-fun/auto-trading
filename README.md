@@ -1,6 +1,4 @@
-# Project Name
-
-A brief description of what this project does and who it’s for.
+# Auto Trading Swarms
 
 ## Project Structure
 
