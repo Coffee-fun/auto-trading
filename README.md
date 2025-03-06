@@ -34,6 +34,17 @@ A brief description of what this project does and who it’s for.
    pip install uv
    ```
 
+3. Add the following api keys to the [backend](./backend/) directory:
+```bash
+# backend/.env
+RPC_ENDPOINT=https://api.mainnet-beta.solana.com
+ANTHROPIC_KEY='sk-ant-...'
+BIRDEYE_API_KEY='...'
+SOLANA_PRIVATE_KEY='...'
+WALLET_ADDRESS='...'
+```
+
+
 
 ## Usage
 
