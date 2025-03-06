@@ -19,10 +19,7 @@ EXCLUDED_TOKENS = [USDC_ADDRESS, SOL_ADDRESS]
 # ]
 
 MONITORED_TOKENS = []
-if not MONITORED_TOKENS:
-    raise Exception(
-        "PLEASE EDIT config.py file in the backend directory to monitor the tokens you want :)"
-    )
+
 
 
 # Position sizing 🎯
